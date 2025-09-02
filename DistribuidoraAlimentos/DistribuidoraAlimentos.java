@@ -8,7 +8,6 @@ public class DistribuidoraAlimentos {
     
     /**
      * Método principal que ejecuta la aplicación
-     * @param args Argumentos de línea de comandos
      */
     public static void main(String[] args) {
         // Crear objeto Scanner para leer entrada del usuario
